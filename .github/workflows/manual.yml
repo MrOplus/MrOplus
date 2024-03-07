@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Run script
-        run: python script.py
+        run: python action.py
       - name: Publish to GitHub
         uses: mikeal/publish-to-github-action@master
         env:
