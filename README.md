@@ -5,3 +5,10 @@
 - 🌏 Making private networks is a hobby
 - 🪲 Reverse Engineering the bugs?
 
+### Latest Blog Posts
+* [Mesh VPN using Zero Trust](https://mroplus.medium.com/mesh-vpn-using-zero-trust-ec7405d86e4b?source=rss-32b4aa34aa19------2)
+* [Evading Captive Portal Story (Part 1)](https://mroplus.medium.com/evading-captive-portal-story-part-1-1eee5f94d019?source=rss-32b4aa34aa19------2)
+* [An Introduction to Software Defined Radio](https://mroplus.medium.com/an-introduction-to-software-defined-radio-e1f7eb537a3b?source=rss-32b4aa34aa19------2)
+
+
+
