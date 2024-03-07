@@ -1,9 +1,15 @@
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to run the workflow on'
+        required: false
+        default: 'main'
 permissions:
   contents: write
 jobs:
