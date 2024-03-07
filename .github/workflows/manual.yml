@@ -5,6 +5,8 @@ on:
         description: 'Branch to run the workflow on'
         required: false
         default: 'master'
+permissions:
+  contents: write
 jobs:
   update:
     runs-on: ubuntu-latest
