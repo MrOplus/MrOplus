@@ -4,6 +4,8 @@ on:
       - master
   schedule:
     - cron: '0 */3 * * *'
+permissions:
+  contents: write
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -18,7 +20,14 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run script
         run: python action.py
+      - name: Check for modified files # https://stackoverflow.com/questions/57921401/push-to-origin-from-github-action
+        id: git-check
+        run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)
       - name: Publish to GitHub
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        if: steps.git-check.outputs.modified == 'true'
+        run: |
+          git config --global user.name "MrOplus"
+          git config --global user.email "MrOplus@yahoo.fr"
+          git add .
+          git commit -m "Update data"
+          git push
