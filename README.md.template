@@ -2,7 +2,7 @@
 #### A Software Engineer by Day ☀️ and a Security Researcher by Night 🌜
 - ⚙️ Mostly Working With `.go`, `.js`, `.py`, `.java`, `.kt`, `.php`
 - 🧱 Trying to build a wall against malware
-- 🌏 Making private networks is a hobby
+- 🌏 Making private networks for fun
 - 🪲 Reverse Engineering the bugs?
 
 ### Latest Blog Posts
