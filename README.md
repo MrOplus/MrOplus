@@ -6,6 +6,7 @@
 - 🪲 Reverse Engineering the bugs?
 
 ### Latest Blog Posts
+* [Up and Running a Mail Server in 5 Minutes](https://mroplus.medium.com/up-and-running-a-mail-server-in-5-minutes-4141ea7f09d1?source=rss-32b4aa34aa19------2)
 * [XBeam is out!](https://mroplus.medium.com/xbeam-oss-is-out-ce772ab7b04d?source=rss-32b4aa34aa19------2)
 * [Mesh VPN using Zero Trust](https://mroplus.medium.com/mesh-vpn-using-zero-trust-ec7405d86e4b?source=rss-32b4aa34aa19------2)
 * [Evading Captive Portal Story (Part 1)](https://mroplus.medium.com/evading-captive-portal-story-part-1-1eee5f94d019?source=rss-32b4aa34aa19------2)
