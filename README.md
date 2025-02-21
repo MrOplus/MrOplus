@@ -6,6 +6,7 @@
 - 🪲 Reverse Engineering the bugs?
 
 ### Latest Blog Posts
+* [Reviving an Outdated IP Camera: A Journey Through Legacy Tech and Modern Solutions](https://mroplus.medium.com/reviving-an-outdated-ip-camera-a-journey-through-legacy-tech-and-modern-solutions-671f8e3c7ac1?source=rss-32b4aa34aa19------2)
 * [Expose your local services like a pro](https://mroplus.medium.com/expose-your-local-services-like-a-pro-cf8a1f874cdf?source=rss-32b4aa34aa19------2)
 * [Up and Running a Mail Server in 5 Minutes](https://mroplus.medium.com/up-and-running-a-mail-server-in-5-minutes-4141ea7f09d1?source=rss-32b4aa34aa19------2)
 * [XBeam is out!](https://mroplus.medium.com/xbeam-oss-is-out-ce772ab7b04d?source=rss-32b4aa34aa19------2)
