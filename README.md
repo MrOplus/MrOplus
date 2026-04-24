@@ -6,6 +6,7 @@
 - 🪲 Reverse Engineering the bugs?
 
 ### Latest Blog Posts
+* [Exploring the Lumive Smart IR Remote Control](https://mroplus.medium.com/a-journey-through-lumive-smart-ir-remote-control-d997af7a0b70?source=rss-32b4aa34aa19------2)
 * [Transform your useless tablet into a picture frame powered by AI.](https://mroplus.medium.com/turn-on-useless-tablet-into-a-picture-frame-by-ai-c16d95e250bd?source=rss-32b4aa34aa19------2)
 * [WPA-Enterprise Implementation for better security](https://mroplus.medium.com/wpa-enterprise-implementation-for-better-security-05a61380c03c?source=rss-32b4aa34aa19------2)
 * [Turn your RaspberryPI into a NVR](https://mroplus.medium.com/turn-your-raspberrypi-into-a-nvr-3f1cc58a8497?source=rss-32b4aa34aa19------2)
